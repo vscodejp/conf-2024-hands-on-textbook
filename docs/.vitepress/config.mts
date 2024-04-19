@@ -56,10 +56,6 @@ export default defineConfig({
             link: "/practice",
           },
           {
-            text: "スラッシュコマンド",
-            link: "/command",
-          },
-          {
             text: "Nuxt3によるブログ作成",
             link: "/sample-article",
           },
